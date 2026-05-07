@@ -1,0 +1,6 @@
+@singalR_project_HostAddress = http://localhost:5030
+
+GET {{singalR_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
